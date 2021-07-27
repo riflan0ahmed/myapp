@@ -9,7 +9,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.17.1",
+    "express-validator": "^6.12.0",
+    "helmet": "^4.6.0",
+    "joi": "^13.1.0",
     "mongoose": "^5.13.2",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.12",
     "underscore": "^1.13.1"
   }
 }
