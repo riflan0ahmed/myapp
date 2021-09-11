@@ -9,13 +9,20 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bcrypt": "^5.0.1",
+    "config": "^3.3.6",
+    "debug": "^4.3.2",
     "express": "^4.17.1",
     "express-validator": "^6.12.0",
     "helmet": "^4.6.0",
+    "jade": "^1.11.0",
     "joi": "^13.1.0",
-    "mongoose": "^5.13.2",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^5.13.8",
     "morgan": "^1.10.0",
     "nodemon": "^2.0.12",
+    "pug": "^3.0.2",
     "underscore": "^1.13.1"
   }
 }
